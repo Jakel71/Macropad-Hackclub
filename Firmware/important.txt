@@ -1,0 +1,1 @@
+due to less time the software for the macropad will be done after January 1st. Then there will be an update. for Insirational pourpeses You will ba able to find some Adruino fils with an 16 Button Matrix and an OLED_Display. The LEDs will replace this Display, but you will get out of it the idea.
