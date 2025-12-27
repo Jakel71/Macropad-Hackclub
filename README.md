@@ -18,8 +18,9 @@ You can see here all the parts you need for the case just screew 4 screews in it
 BOM: (list of materials)
 - 1 PCB
 - 1 Case ( bittom + top part)
-- 4 screews
+- M3x16mm screws
+- M3x5mx4mm heatset inserts
 - 16 Cherry MX 1 Keyboardbuttons
 - 16 Keycaps
-- 16 LEDs
-- 1 Microcontroller
+- 16 SK6812 MINI-E LEDs
+- 1 Seeed XIAO RP2040
