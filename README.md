@@ -15,3 +15,11 @@ Here you can see the PCB and all the components which you have to mount on it. T
 ![caseparts](image-4.png)
 You can see here all the parts you need for the case just screew 4 screews in it and its ready to go.
 
+BOM: (list of materials)
+- 1 PCB
+- 1 Case ( bittom + top part)
+- 4 screews
+- 16 Cherry MX 1 Keyboardbuttons
+- 16 Keycaps
+- 16 LEDs
+- 1 Microcontroller
