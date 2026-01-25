@@ -15,3 +15,12 @@ Here you can see the PCB and all the components which you have to mount on it. T
 ![caseparts](image-4.png)
 You can see here all the parts you need for the case just screew 4 screews in it and its ready to go.
 
+BOM: (list of materials)
+- 1 PCB
+- 1 Case ( bittom + top part)
+- M3x16mm screws
+- M3x5mx4mm heatset inserts
+- 16 Cherry MX 1 Keyboardbuttons
+- 16 Keycaps
+- 16 SK6812 MINI-E LEDs
+- 1 Seeed XIAO RP2040
