@@ -1,6 +1,9 @@
 # Macropad-Hackclub
 This is an Macro pad with 16 Buttons with background lighting. Its meant for simplicity and an everyday use. This is the reason why it will have shortcuts for Windows 11. You could adjust the Container of the PCB so that the lights are looking out, but scince I never saw this kind of LED I don't know how big the hole has to be.
 
+![IMG_20260131_174048_00_064](https://github.com/user-attachments/assets/63da77ec-5236-4266-a89b-373218c66c56)
+
+
 ![over-all-box](image-1.png)
 
 In this picture you can see the Box in gray and the PCB in Green.
