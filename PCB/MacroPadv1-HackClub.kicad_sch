@@ -3076,7 +3076,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 107.95 27.8698 0)
 			(effects
 				(font
@@ -3084,7 +3084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 96.52 39.37 0)
 			(effects
 				(font
@@ -3152,7 +3152,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 52.07 48.1898 0)
 			(effects
 				(font
@@ -3160,7 +3160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 40.64 59.69 0)
 			(effects
 				(font
@@ -3190,16 +3190,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c3445321a")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d937")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff2")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b6")
 		)
 		(instances
 			(project ""
@@ -3228,7 +3228,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 142.24 48.1898 0)
 			(effects
 				(font
@@ -3236,7 +3236,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 130.81 59.69 0)
 			(effects
 				(font
@@ -3266,16 +3266,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c3445321b")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d938")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff3")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b7")
 		)
 		(instances
 			(project ""
@@ -3644,10 +3644,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c7695")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e286")
 		)
 		(instances
 			(project ""
@@ -3676,7 +3676,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 77.47 48.1898 0)
 			(effects
 				(font
@@ -3684,7 +3684,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 66.04 59.69 0)
 			(effects
 				(font
@@ -3714,16 +3714,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c3445321c")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d939")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff4")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b8")
 		)
 		(instances
 			(project ""
@@ -3752,7 +3752,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 52.07 27.8698 0)
 			(effects
 				(font
@@ -3760,7 +3760,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 40.64 39.37 0)
 			(effects
 				(font
@@ -3790,16 +3790,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c3445321d")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d93a")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff5")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b9")
 		)
 		(instances
 			(project ""
@@ -3828,7 +3828,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 171.45 29.1398 0)
 			(effects
 				(font
@@ -3836,7 +3836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 160.02 40.64 0)
 			(effects
 				(font
@@ -3866,16 +3866,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c3445321e")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d93b")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff6")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0ba")
 		)
 		(instances
 			(project ""
@@ -3904,7 +3904,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 109.22 48.1898 0)
 			(effects
 				(font
@@ -3912,7 +3912,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 97.79 59.69 0)
 			(effects
 				(font
@@ -3942,16 +3942,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c3445321f")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d93c")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff7")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0bb")
 		)
 		(instances
 			(project ""
@@ -4016,10 +4016,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c7696")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e287")
 		)
 		(instances
 			(project ""
@@ -4084,10 +4084,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c7697")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e288")
 		)
 		(instances
 			(project ""
@@ -4116,7 +4116,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 267.97 26.5998 0)
 			(effects
 				(font
@@ -4124,7 +4124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 256.54 38.1 0)
 			(effects
 				(font
@@ -4154,16 +4154,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453220")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d93d")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff8")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0bc")
 		)
 		(instances
 			(project ""
@@ -4192,7 +4192,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 78.74 27.8698 0)
 			(effects
 				(font
@@ -4200,7 +4200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 67.31 39.37 0)
 			(effects
 				(font
@@ -4230,16 +4230,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453221")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d93e")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff9")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0bd")
 		)
 		(instances
 			(project ""
@@ -4304,10 +4304,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c7698")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e289")
 		)
 		(instances
 			(project ""
@@ -4336,7 +4336,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 203.2 27.8698 0)
 			(effects
 				(font
@@ -4344,7 +4344,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 191.77 39.37 0)
 			(effects
 				(font
@@ -4374,16 +4374,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453222")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d93f")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ffa")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0be")
 		)
 		(instances
 			(project ""
@@ -4448,10 +4448,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c7699")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e28a")
 		)
 		(instances
 			(project ""
@@ -4515,10 +4515,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c769a")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e28b")
 		)
 		(instances
 			(project ""
@@ -4547,7 +4547,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 171.45 46.9198 0)
 			(effects
 				(font
@@ -4555,7 +4555,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 160.02 58.42 0)
 			(effects
 				(font
@@ -4585,16 +4585,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453223")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d940")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ffb")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0bf")
 		)
 		(instances
 			(project ""
@@ -4659,10 +4659,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c769b")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e28c")
 		)
 		(instances
 			(project ""
@@ -4727,10 +4727,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c769c")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e28d")
 		)
 		(instances
 			(project ""
@@ -4795,10 +4795,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c769d")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e28e")
 		)
 		(instances
 			(project ""
@@ -4863,10 +4863,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c769e")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e28f")
 		)
 		(instances
 			(project ""
@@ -4895,7 +4895,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 142.24 27.8698 0)
 			(effects
 				(font
@@ -4903,7 +4903,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 130.81 39.37 0)
 			(effects
 				(font
@@ -4933,16 +4933,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453224")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d941")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ffc")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0c0")
 		)
 		(instances
 			(project ""
@@ -5007,10 +5007,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c769f")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e290")
 		)
 		(instances
 			(project ""
@@ -5039,7 +5039,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 201.93 45.6498 0)
 			(effects
 				(font
@@ -5047,7 +5047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 190.5 57.15 0)
 			(effects
 				(font
@@ -5077,16 +5077,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453225")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d942")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ffd")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0c1")
 		)
 		(instances
 			(project ""
@@ -5152,7 +5152,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "f2b5601b-6218-49c8-a8bf-0af53c8401db")
+			(uuid "f2b5601b-6218-49c8-a8bf-0af53c8401dc")
 		)
 		(instances
 			(project ""
@@ -5217,10 +5217,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c76a0")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e291")
 		)
 		(instances
 			(project ""
@@ -5249,7 +5249,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 236.22 46.9198 0)
 			(effects
 				(font
@@ -5257,7 +5257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 224.79 58.42 0)
 			(effects
 				(font
@@ -5287,16 +5287,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453226")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d943")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ffe")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0c2")
 		)
 		(instances
 			(project ""
@@ -5361,10 +5361,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c76a1")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e292")
 		)
 		(instances
 			(project ""
@@ -5393,7 +5393,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 269.24 45.6498 0)
 			(effects
 				(font
@@ -5401,7 +5401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 257.81 57.15 0)
 			(effects
 				(font
@@ -5431,16 +5431,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453227")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d944")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040fff")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0c3")
 		)
 		(instances
 			(project ""
@@ -5504,10 +5504,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c76a2")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e293")
 		)
 		(instances
 			(project ""
@@ -5572,10 +5572,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a06202c0-0867-48ba-955d-49816b7c7694")
+			(uuid "a06202c0-0867-48ba-955d-49816b7c76a3")
 		)
 		(pin "1"
-			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e285")
+			(uuid "45c325e7-9812-4ac9-8a53-e48b2c49e294")
 		)
 		(instances
 			(project ""
@@ -5604,7 +5604,7 @@
 				)
 			)
 		)
-		(property "Value" "SK6812MINI"
+		(property "Value" "SK6812MINI-E"
 			(at 236.22 27.8698 0)
 			(effects
 				(font
@@ -5612,7 +5612,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
+		(property "Footprint" "kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E"
 			(at 224.79 39.37 0)
 			(effects
 				(font
@@ -5642,16 +5642,16 @@
 			)
 		)
 		(pin "4"
-			(uuid "2f1d197f-7d43-46d0-a730-697c34453219")
+			(uuid "2f1d197f-7d43-46d0-a730-697c34453228")
 		)
 		(pin "3"
-			(uuid "11a77388-64d3-47b8-ace1-1839f801d936")
+			(uuid "11a77388-64d3-47b8-ace1-1839f801d945")
 		)
 		(pin "2"
-			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47040ff1")
+			(uuid "e6fd23d2-4e22-4055-a6dd-80ad47041000")
 		)
 		(pin "1"
-			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0b5")
+			(uuid "2c984a02-5545-4bcc-95ec-cc774cebf0c4")
 		)
 		(instances
 			(project ""
@@ -5717,7 +5717,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3f006ffa-9975-4320-8df0-54981698dfca")
+			(uuid "3f006ffa-9975-4320-8df0-54981698dfcb")
 		)
 		(instances
 			(project ""
